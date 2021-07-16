@@ -1,2 +1,2 @@
 # Confidence-Interval-Calculator
-A windows desktop app that calculates confidence intervals based on user input.
+A windows terminal app that is used to calculate confidence inetrvals based on user input.
